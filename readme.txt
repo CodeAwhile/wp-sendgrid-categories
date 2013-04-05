@@ -10,7 +10,7 @@ Associates a category with emails that are sent through SendGrid
 == Description ==
 
 This plugin adds a category field to the WP SendGrid settings page.
-If you add a category, it will be associated with emails when they are sent through SendGrid
+If you add a category, it will be associated with emails when they are sent through SendGrid.
 This is useful for organizing SendGrid reports
 
 == Installation ==
