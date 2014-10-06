@@ -5,7 +5,7 @@
  * Plugin URI: http://github.com/codeawhile/wp-sendgrid-categories/
  * Author: CodeAwhile.com
  * Author URI: http://codeawhile.com/
- * Version: 0.1
+ * Version: 1.0
  */
 
 class WP_SendGrid_Categories {
