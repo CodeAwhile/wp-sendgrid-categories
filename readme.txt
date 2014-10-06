@@ -2,8 +2,8 @@
 Contributors: itsananderson
 Tags: email
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 0.1
+Tested up to: 4.0
+Stable tag: 1.0
 
 Associates a category with emails that are sent through SendGrid
 

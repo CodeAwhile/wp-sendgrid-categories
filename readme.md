@@ -3,8 +3,8 @@ WP SendGrid Categories
 * Contributors: itsananderson
 * Tags: [email](http://wordpress.org/extend/plugins/tags/email)
 * Requires at least: 3.0
-* Tested up to: 3.5.1
-* Stable tag: 0.1
+* Tested up to: 4.0
+* Stable tag: 1.0
 
 Associates a category with emails that are sent through SendGrid
 
